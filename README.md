@@ -74,6 +74,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 For example: 
 
+```js
 export const OPTICS_MONITOR_PLAYBACK=false; 
 export const OPTICS_MONITOR_LOCAL=false;
 export const OPTICS_MONITOR_PRODUCTION=false;
@@ -94,3 +95,4 @@ export const MAP_CENTERS = {
     "tongling": ***,
     "belgium_tpi": ***
 }
+```
