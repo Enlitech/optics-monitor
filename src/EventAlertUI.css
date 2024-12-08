@@ -1,0 +1,31 @@
+.eventAlertContainer {
+    max-height: 163px;
+    overflow-y: auto;
+}
+  
+.eventAlertTable {
+    margin-right: 10px;
+}
+
+th {
+    text-align: left;
+}
+
+.energyThresholdLabel, .eventStaySecondsLabel {
+    margin-right: 5px; /* Adjust as needed */
+}
+
+.energyThresholdInput, .eventStaySecondsInput {
+    width: 50px; /* Adjust the width as needed */
+}
+
+.energyThresholdUnit, .eventStaySecondsUnit {
+    margin-left: 3px;
+    margin-right: 20px;
+}
+
+.eventAlertHeader {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px; /* Adjust as needed for spacing */
+}

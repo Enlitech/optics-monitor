@@ -1,0 +1,158 @@
+{
+    "appSettings" :"App设置",
+    "dasIp": "DAS IP", 
+    "dasPort": "DAS 端口",
+    "FFTlog": "FFT取log",
+
+    "stopServer": "停止服务",
+    "stopServerSuccess": "停止服务成功",
+    "stopServerFailure": "停止服务失败, 可能已停止",
+    "ongoingUpdating": "仍有图表在更新, 请先停止",
+
+    "energyDistribution": "能量分布",
+    "getEnergyDistributionAndPeaks": "获取能量分布和峰值",
+    "highestPeakPosition": "最高峰值位置",
+    "highestPeakEnergy": "最高峰值能量",
+
+    "rawAmplitude": "原始振幅",
+    "getRawAmplitude": "获取原始振幅",
+    "position": "位置",
+    "rawAmplitudeFFT": "原始振幅 FFT",
+
+    "updateButtonTextOrg": "更新初始化设置(并重启)",
+    "updateButtonTextUpdating": "更新中...",
+    "updateSuccess": "更新设置成功！",
+    "updateFailure": "更新设置失败...",
+    "visaAddressLabel": "示波器地址",
+    "opticalOSSampleLengthLabel": "采样长度",
+    "opticalOSSampleFrequencyLabel": "采样频率",
+    "opticalOSImpulseFrequencyLabel": "载波频率",
+    "opticalOSPWMFrequencyLabel": "重复频率",
+    "opticalOSRecordDurationLabel": "声波记录时长",
+    "visaTriggerChannelLabel": "触发信道",
+    "visaAcquireChannelLabel": "输出信道",
+    "visaBufferLengthLabel": "缓冲脉冲个数",
+    "visaTimeRangeLabel": "脉冲采集时长",
+    "visaCollectionDelayLabel": "脉冲采集延迟",
+    "initParamSettings": "初始化参数设置",
+
+    "rawImpulse": "原始脉冲",
+    "getImpulse": "获取脉冲",
+    "impulse": "脉冲",
+    "impulseFFT": "脉冲 FFT",
+
+    "frequency": "频率",
+    "fft": "FFT",
+    "fftAmplitude": "FFT幅度",
+
+    "amplitude": "振幅",
+
+    "impulseStabilityAnalysis": "脉冲稳定性分析",
+    "totalImpulses": "脉冲总数",
+    "impulsesPerGroup": "每组个数",
+    "refreshRate": "刷新频率",
+    "getImpulseData": "获取脉冲数据",
+    "gettingData": "获取数据中...",
+    "dataReceived": "获取完毕，展示数据中...",
+
+    "waveform": "波形",
+    "tick": "Tick",
+
+    "demodulatedWaveform": "振动波形",
+    "getDemodulatedWaveform": "获取振动波形",
+    "waveformAmplitude": "波形振幅",
+    "waveformFFT": "波形 FFT",
+
+    "startAutoUpdate": "开始自动更新",
+    "stopAutoUpdate": "停止自动更新",
+
+    "highestSamplingPoint": "最高采样点",
+
+    "energy": "能量",
+    "peak": "峰值",
+
+    "pwm_high_width_ns": "脉冲宽度", 
+
+    "threshold": "阈值", 
+    "numOfMaximaDisplayLimit": "最大峰值数",
+    "energyAverageLen": "能量平均距离",
+    "energyEmvLen": "能量平滑指数", 
+    "peakMinDist": "峰值最小间距(采样点)", 
+
+    "spatialAvgLen": "空间平均长度",
+
+    "opticalOSIsRecordDemftData": "记录解调数据", 
+    "opticalOSIsRecordTs": "记录时间戳", 
+    "opticalOSRecordMaxFileNum": "最大记录文件数", 
+
+    "updateEnergyWaterfall": "更新能量瀑布",
+    "energyWaterfall": "能量瀑布图",
+
+    "mapContainer": "地图",
+
+    "eventAlert": "事件报警",
+    "eventClass": "事件类型", 
+    "eventAlertList": "事件列表",
+    "riskProbability": "风险概率(%)",
+    "riskLevel": "风险等级",
+    "level": "级",
+    "energyThreshold": "能量阈值",
+    "alert": "报警",
+
+    "playback": "回放",
+    "playBackTime": "当前回放时间",
+
+    "playbackContainer": "回放信息&设置",
+
+    "startTime": "开始时间", 
+    "stopTime": "结束时间", 
+    "minTime": "最小时间", 
+    "maxTime": "最大时间", 
+    "saveSettings": "保存设置",
+    "savingSettings":"保存设置中",
+
+    "Invalid time format. Please use 'YYYY-MM-DD HH:MM:SS'": "时间格式不正确, 请使用 YYYY-MM-DD HH:MM:SS 格式, 并确保各数字在范围之内",
+
+    "error": "错误", 
+    "success": "成功",
+
+    "playBackFile": "数据记录文件",
+
+    "saveImage": "保存图片", 
+
+    "no recording within specified time range": "指定时间段内没有记录",
+    "start time larger than stop time": "开始时间比结束时间晚", 
+
+    "dist": "距离",
+    "lat": "纬度",
+    "lng": "经度",
+
+    "playWave": "播放声波",
+
+    "showWaveUI": "打开波形视图",
+    "hideWaveUI": "关闭波形视图",
+    
+    "waveComplexity": "波形复杂度",
+    "currentWaveForm": "获取当前波形",
+    "waveForm": "波形",
+    "Get": "获取",
+
+    "time": "时间",
+
+    "staySeconds": "停留时间",
+
+    "车辆": "车辆",
+    "行人": "行人",
+    "爆破": "爆破",
+    "扰动": "扰动",
+    "连续高能量": "连续高能量",
+    "局部高能量": "局部高能量",
+    "共同振动": "共同振动",
+
+    "m": "米",
+    "s": "秒",
+    "Hz": "Hz",
+    "MHz": "MHz",
+    "ms": "毫秒",
+    "ns" : "纳秒"
+}

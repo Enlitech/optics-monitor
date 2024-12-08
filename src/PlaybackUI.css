@@ -1,0 +1,46 @@
+/* PlaybackUI.css */
+.playback-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px; /* 间距 */
+  padding: 10px; /* 内边距 */
+}
+
+.playback-item {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px; /* 内部标签间距 */
+}
+
+.playback-label {
+  font-weight: bold; /* 加粗 */
+  color: #333; /* 文字颜色 */
+}
+
+.playback-time {
+  color: #6683e4;
+  margin-top: 5px;
+  font-weight: bolder;
+}
+
+.playback-file {
+  color: gray;
+  margin-top: 5px;
+}
+
+
+.otherinfo-time {
+  color: #666;
+  border: 1px solid #ccc; /* 输入框边框 */
+  padding: 5px; /* 输入框内边距 */
+  border-radius: 3px; /* 输入框圆角 */
+  width: 200px; /* 输入框宽度 */
+  height: 30px; /* 输入框高度 */
+  box-sizing: border-box; /* 包括内边距和边框的高度 */
+}
+
+.save-button {
+  height: 25px; /* 设置与输入框相同的高度 */
+  margin-top: 25px;
+}

@@ -1,0 +1,158 @@
+{
+    "appSettings" :"App Settings",
+    "dasIp": "DAS IP", 
+    "dasPort": "DAS Port",
+    "FFTlog": "FFT log-scale",
+
+    "stopServer": "Stop Server",
+    "stopServerSuccess": "Stop Server Sucessfully",
+    "stopServerFailure": "Error Stopping Server; Maybe Already Down",
+    "ongoingUpdating": "Some Component Still Updating; Please stop them first",
+
+    "energyDistribution": "Energy Distribution",
+    "getEnergyDistributionAndPeaks": "Get Energy Distribution and Peaks",
+    "highestPeakPosition": "Highest Peak Position",
+    "highestPeakEnergy": "Highest Peak Energy",
+
+    "rawAmplitude": "Raw Amplitude",
+    "getRawAmplitude": "Get Raw Amplitude",
+    "position": "Position",
+    "rawAmplitudeFFT": "Raw Amplitude FFT",
+
+    "updateButtonTextOrg": "Update Initial Settings(&Restart)",
+    "updateButtonTextUpdating": "Updating...",
+    "updateSuccess": "Update Settings Successful!",
+    "updateFailure": "Update Settings Failed...",
+    "visaAddressLabel": "Visa Address",
+    "opticalOSSampleLengthLabel": "Sample Length",
+    "opticalOSSampleFrequencyLabel": "Sample Frequency",
+    "opticalOSImpulseFrequencyLabel": "Impulse Frequency",
+    "opticalOSPWMFrequencyLabel": "PWM Frequency",
+    "opticalOSRecordDurationLabel": "Record Duration",
+    "visaTriggerChannelLabel": "Trigger Channel",
+    "visaAcquireChannelLabel": "Acquire Channel",
+    "visaBufferLengthLabel": "Buffer Length",
+    "visaTimeRangeLabel": "Time Range",
+    "visaCollectionDelayLabel": "Collection Delay",
+    "initParamSettings": "Initial Parameter Settings",
+
+    "frequency": "Frequency",
+    "fft": "FFT",
+    "fftAmplitude": "FFT Amplitude",
+
+    "amplitude": "Amplitude",
+
+    "rawImpulse": "Raw Impulse",
+    "getImpulse": "Get Impulse",
+    "impulse": "Impulse",
+    "impulseFFT": "Impulse FFT",
+
+    "impulseStabilityAnalysis": "Impulse Stability Analysis",
+    "totalImpulses": "Total Impulses",
+    "impulsesPerGroup": "Impulses Per Group",
+    "refreshRate": "Refresh Rate",
+    "getImpulseData": "Get Impulse Data",
+    "gettingData": "Getting Data...",
+    "dataReceived": "Data Received, Displaying...",
+    "energyThreshold": "Energy Threshold",
+    "eventAlertList": "Event Alert List",
+
+    "waveform": "Waveform",
+    "tick": "Tick",
+
+    "demodulatedWaveform": "Vibration Waveform",
+    "getDemodulatedWaveform": "Get Vibration Waveform",
+    "waveformAmplitude": "Waveform Amplitude",
+    "waveformFFT": "Waveform FFT",
+
+    "startAutoUpdate": "Start Automatic Update",
+    "stopAutoUpdate": "Stop Automatic Update",
+
+    "highestSamplingPoint": "Highest Sampling Point",
+
+    "energy": "Energy",
+    "peak": "Peak",
+
+    "pwm_high_width_ns": "Pulse Width", 
+
+    "threshold": "threshold", 
+    "numOfMaximaDisplayLimit": "Max # of Maxima",
+    "energyAverageLen": "Energy Avg Len",
+    "energyEmvLen": "Energy Emv Len", 
+    "peakMinDist": "Min distance between Maxima", 
+
+    "spatialAvgLen": "Spatial Average Span",
+
+    "opticalOSIsRecordDemftData": "Record Demodualted Data", 
+    "opticalOSIsRecordTs": "Record TimeStamps", 
+    "opticalOSRecordMaxFileNum": "Max Record Epochs", 
+
+    "updateEnergyWaterfall": "Update Energy Waterfall",
+    "energyWaterfall": "Energy Waterfall",
+
+    "mapContainer": "Map",
+
+    "eventAlert": "Event Alert", 
+    "eventClass": "Event Class", 
+    "riskProbability": "Risk Probability(%)",
+    "riskLevel": "Risky Level",
+    "level": " th",
+
+    "playback": "Playback", 
+
+    "playBackTime": "Current Playback Time",
+
+    "playbackContainer": "Playback Info & Settings",
+
+    "startTime": "Start Time", 
+    "stopTime": "Stop Time", 
+    "minTime": "Min Time", 
+    "maxTime": "Max Time", 
+    "saveSettings": "Save Settings",
+    "savingSettings":"Saving Settings",
+
+    "Invalid time format. Please use 'YYYY-MM-DD HH:MM:SS'": "Invalid time format. Please use 'YYYY-MM-DD HH:MM:SS'",
+    "error": "Error", 
+    "success": "Success",
+
+    "playBackFile": "Playback File", 
+
+    "saveImage": "Save Image", 
+
+    "start time larger than stop time": "Start Time Larger than Stop Time",
+    "no recording within specified time range": "No Recording within Speficified Time Range", 
+
+    "dist": "Distance",
+    "lat": "Latitude",
+    "lng": "Longitude",
+
+    "playWave": "Play Wave",
+
+    "showWaveUI": "Open Wave UI",
+    "hideWaveUI": "Close Wave UI",
+
+    "waveComplexity": "Wave Complexity",
+
+    "Get": "Get", 
+    "waveForm": "Wave Form",
+    "currentWaveForm": "Current Wave Form",
+
+    "time": "Time",
+
+    "staySeconds": "Staying for",
+
+    "车辆": "Vehicule",
+    "行人": "Walking",
+    "爆破": "Blast",
+    "扰动": "Distrubance",
+    "连续高能量": "Cont.High",
+    "局部高能量": "Local.High",
+    "共同振动": "Syn.Vibr",
+
+    "ms": "ms",
+    "m": "m",
+    "s": "s",
+    "Hz": "Hz",
+    "MHz": "MHz",
+    "ns" : "ns"
+}
