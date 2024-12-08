@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### A `global.js` file has to be added for defining User-Specific Macros
+
+For example: 
+
+export const OPTICS_MONITOR_PLAYBACK=false; 
+export const OPTICS_MONITOR_LOCAL=false;
+export const OPTICS_MONITOR_PRODUCTION=false;
+export const DEFAULT_LANG='en'; 
+export const FALLBACK_LANG='en'; 
+export const LOCAL_IP = "localhost";
+export const BASE_URL = "/api/";
+export const ENERGY_COLORSCALE_DOMAIN_MIN = 0;
+export const ENERGY_COLORSCALE_DOMAIN_MAX = 50;
+export const MAP_TYPE = "belgium_tpi_satellite"
+export const MAP_KEYS = {
+    "belgium_tpi_satellite": ***,
+    "tongling": ***
+}
+
+export const MAP_CENTERS = {
+    "belgium_tpi_satellite":***,
+    "tongling": ***,
+    "belgium_tpi": ***
+}
